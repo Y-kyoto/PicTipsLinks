@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "pict-links"
 theme = "slate"
 
-publishDir = "docs"
+publishDir = "public"
 
 [ params ]
 Favicon = "favicon.ico"
