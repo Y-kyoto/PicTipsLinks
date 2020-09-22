@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pict-links</title>
+    <title>メモ</title>
     <link>https://gallant-bohr-faa6a7.netlify.app/</link>
-    <description>Recent content on pict-links</description>
+    <description>Recent content on メモ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://gallant-bohr-faa6a7.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>Copyright © 2020 a Hugo theme by [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0600</lastBuildDate><atom:link href="https://gallant-bohr-faa6a7.netlify.app/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

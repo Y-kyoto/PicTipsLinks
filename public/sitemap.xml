@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://gallant-bohr-faa6a7.netlify.app/categories/</loc>
-  </url>
+  <sitemap>
+    <loc>https://gallant-bohr-faa6a7.netlify.app/en/sitemap.xml</loc>
+    
+      <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://gallant-bohr-faa6a7.netlify.app/</loc>
-  </url>
+  <sitemap>
+    <loc>https://gallant-bohr-faa6a7.netlify.app/fr/sitemap.xml</loc>
+    
+      <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://gallant-bohr-faa6a7.netlify.app/tags/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>
