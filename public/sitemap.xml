@@ -3,58 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gallant-bohr-faa6a7.netlify.app/features/linux/</loc>
+    <loc>https://gallant-bohr-faa6a7.netlify.app/scenery/tree/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gallant-bohr-faa6a7.netlify.app/installation/requirments/</loc>
+    <loc>https://gallant-bohr-faa6a7.netlify.app/body/face/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gallant-bohr-faa6a7.netlify.app/installation/install/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gallant-bohr-faa6a7.netlify.app/features/mac/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gallant-bohr-faa6a7.netlify.app/installation/configuration/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gallant-bohr-faa6a7.netlify.app/features/routing/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gallant-bohr-faa6a7.netlify.app/installation/customization/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gallant-bohr-faa6a7.netlify.app/features/ubuntu/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gallant-bohr-faa6a7.netlify.app/installation/elements/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gallant-bohr-faa6a7.netlify.app/features/windows/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gallant-bohr-faa6a7.netlify.app/installation/</loc>
-    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
   </url>
   
   <url>
@@ -63,7 +18,12 @@
   </url>
   
   <url>
-    <loc>https://gallant-bohr-faa6a7.netlify.app/features/</loc>
+    <loc>https://gallant-bohr-faa6a7.netlify.app/body/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-bohr-faa6a7.netlify.app/scenery/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   

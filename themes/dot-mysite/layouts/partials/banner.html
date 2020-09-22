@@ -6,7 +6,7 @@
 			<p class="text-white mb-4">{{ .Site.Params.banner.subtitle | markdownify }}</p>
 			<div class="position-relative">
 				<input id="search" class="form-control" placeholder="{{ .Site.Params.banner.placeholder }}">
-				<i class="ti-search search-icon"></i>
+				<!-- <i class="ti-search search-icon"></i> -->
 				<!-- Javascript -->
 				{{ $currentNode := . }}
 				{{ $currentNode.Scratch.Set "pages" .Site.Pages }}
@@ -17,7 +17,7 @@
 						{{ range $pages }}
 						{
 							value: "{{ .Title }}",
-							label: "<p>{{.Plain}}</p>{{range.Params.Keywords}}<p>{{.}}</p>{{end}}",
+							label: "{{range.Params.Keywords}}<p>{{.}}</p>{{end}}",
 							url:"{{ .Permalink }}"
 						},
 						{{ end }}
