@@ -2,7 +2,6 @@
 
 # pict-links
 https://gallant-bohr-faa6a7.netlify.app/
-自分用のリンク集です。
 
 # ページ追記の仕方
 ## twitter埋め込み
