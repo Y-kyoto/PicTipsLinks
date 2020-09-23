@@ -33,6 +33,8 @@
 {{ "<!-- Main Stylesheet -->" | safeHTML }}
 {{ $css := resources.Get "css/style.css" | minify }}
 <link href="{{ $css.Permalink }}" rel="stylesheet" media="screen"/>
+{{ $comcss := resources.Get "css/common.css" | minify }}
+<link href="{{ $comcss.Permalink }}" rel="stylesheet" media="screen"/>
   
 {{ "<!-- ** JS Plugins Needed for the Project ** -->" | safeHTML }}
 
