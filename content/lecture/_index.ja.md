@@ -5,3 +5,5 @@ description: ""
 type : "docs"
 weight: 21
 ---
+
+youtubeの動画については[この再生リスト](https://www.youtube.com/playlist?list=PLfaxCAFIhb8BzUAjq95298WlSUgBO0_ck)に追加したものから試聴したものを整理します。
