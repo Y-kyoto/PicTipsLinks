@@ -22,12 +22,12 @@
   
   <style>
   :root{
-    --primary-color:#02007e;
-    --body-color:#f9f9f9;
-    --text-color:#636363;
+    --primary-color:#264653;
+    --body-color:#f0efeb;
+    --text-color:#3d405b;
     --text-color-dark:#242738;
     --white-color:#ffffff;
-    --light-color:#f8f9fa;
+    --light-color:#Copied!;
     --font-family:Lato;
   }
   </style>
@@ -35,6 +35,8 @@
 <!-- Main Stylesheet -->
 
 <link href="https://gallant-bohr-faa6a7.netlify.app/css/style.min.css" rel="stylesheet" media="screen"/>
+
+<link href="https://gallant-bohr-faa6a7.netlify.app/css/common.min.css" rel="stylesheet" media="screen"/>
   
 <!-- ** JS Plugins Needed for the Project ** -->
 
@@ -77,7 +79,7 @@
         
         
         <li class="nav-item">
-          <a class="nav-link text-dark" href="https://gallant-bohr-faa6a7.netlify.app/">Home</a>
+          <a class="nav-link text-dark" href="https://gallant-bohr-faa6a7.netlify.app/">トップに戻る</a>
         </li>
         
         
@@ -105,84 +107,155 @@
 					var projects = [
 						
 						{
-							value: "その他",
+							value: "「その他」のトップページにすすむ",
 							label: "<p>タコ</p>",
 							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/life\/others\/"
 						},
 						
 						{
-							value: "手",
-							label: "<p>手</p>",
-							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/body\/hand\/"
+							value: "「体」のトップページにすすむ",
+							label: "<p>体</p>",
+							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/body\/body\/"
 						},
 						
 						{
-							value: "目",
-							label: "<p>目</p>",
-							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/face\/eye\/"
-						},
-						
-						{
-							value: "草・木の描き方",
+							value: "「植物」のトップページにすすむ",
 							label: "<p>草</p><p>木</p>",
 							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/scenery\/tree\/"
 						},
 						
 						{
-							value: "顔",
-							label: "<p>顔</p>",
-							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/face\/all\/"
+							value: "「色」のトップページにすすむ",
+							label: "<p>比較</p>",
+							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/tools\/colors\/"
 						},
 						
 						{
-							value: "魚",
-							label: "<p>魚</p>",
-							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/life\/fish\/"
-						},
-						
-						{
-							value: "",
-							label: "",
-							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/"
-						},
-						
-						{
-							value: "顔",
+							value: "「顔」のトップページにすすむ",
 							label: "",
 							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/face\/"
 						},
 						
 						{
-							value: "体・人体",
+							value: "「顔」のトップページにすすむ",
+							label: "<p>顔</p>",
+							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/face\/all\/"
+						},
+						
+						{
+							value: "「魚」のトップページにすすむ",
+							label: "<p>魚</p>",
+							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/life\/fish\/"
+						},
+						
+						{
+							value: "「手」のトップページにすすむ",
+							label: "<p>手</p>",
+							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/body\/hand\/"
+						},
+						
+						{
+							value: "「目」のトップページにすすむ",
+							label: "<p>目</p>",
+							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/face\/eye\/"
+						},
+						
+						{
+							value: "「体・人体」のトップページにすすむ",
 							label: "",
 							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/body\/"
 						},
 						
 						{
-							value: "景色・背景",
+							value: "「姿勢」のトップページにすすむ",
+							label: "<p>姿勢</p>",
+							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/body\/pose\/"
+						},
+						
+						{
+							value: "「表情」のトップページにすすむ",
+							label: "<p>表情</p>",
+							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/face\/expression\/"
+						},
+						
+						{
+							value: "「足・脚」のトップページにすすむ",
+							label: "<p></p>",
+							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/body\/foot\/"
+						},
+						
+						{
+							value: "「景色・背景」のトップページにすすむ",
 							label: "",
 							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/scenery\/"
 						},
 						
 						{
-							value: "生物",
+							value: "「生物」のトップページにすすむ",
 							label: "",
 							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/life\/"
 						},
 						
 						{
-							value: "Categories",
+							value: "「ツール・道具」のトップページにすすむ",
+							label: "",
+							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/tools\/"
+						},
+						
+						{
+							value: "「資料・動画」のトップページにすすむ",
+							label: "",
+							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/lecture\/"
+						},
+						
+						{
+							value: "「」のトップページにすすむ",
+							label: "",
+							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/"
+						},
+						
+						{
+							value: "「Categories」のトップページにすすむ",
 							label: "",
 							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/categories\/"
 						},
 						
 						{
-							value: "Tags",
+							value: "「Tags」のトップページにすすむ",
 							label: "",
 							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/tags\/"
 						},
-						
-					];
+						{
+							value: "「目」の「目の描き方」にすすむ",
+							label: "<p>目</p>",
+							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/face\/eye\/#sec-0"
+						},
+						{
+							value: "「目」の「レイヤー構成」にすすむ",
+							label: "<p>目</p>",
+							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/face\/eye\/#sec-1"
+						},
+						{
+							value: "「目」の「使用ブラシ」にすすむ",
+							label: "<p>目</p>",
+							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/face\/eye\/#sec-2"
+						},
+						{
+							value: "「表情」の「表情の描き方」にすすむ",
+							label: "<p>表情</p>",
+							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/face\/expression\/#sec-0"
+						},
+						{
+							value: "「表情」の「髪による表現」にすすむ",
+							label: "<p>表情</p>",
+							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/face\/expression\/#sec-1"
+						},
+						{
+							value: "「表情」の「デフォルメによる表現」にすすむ",
+							label: "<p>表情</p>",
+							url:"https:\/\/gallant-bohr-faa6a7.netlify.app\/face\/expression\/#sec-2"
+						},
+						];
 					$( "#search" ).autocomplete({
 						source: projects
 					})
@@ -212,7 +285,7 @@
         </div>
         <!-- topic-item -->
         
-        <div class="col-lg-4 col-sm-6 mb-4">
+        <div class="col-lg-4 col-sm-3 mb-3">
           <a href="https://gallant-bohr-faa6a7.netlify.app/face/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
             <i class=" icon text-primary d-block mb-4"></i>
             <h3 class="mb-3 mt-0">顔</h3>
@@ -220,7 +293,7 @@
           </a>
         </div>
         
-        <div class="col-lg-4 col-sm-6 mb-4">
+        <div class="col-lg-4 col-sm-3 mb-3">
           <a href="https://gallant-bohr-faa6a7.netlify.app/body/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
             <i class=" icon text-primary d-block mb-4"></i>
             <h3 class="mb-3 mt-0">体・人体</h3>
@@ -228,7 +301,7 @@
           </a>
         </div>
         
-        <div class="col-lg-4 col-sm-6 mb-4">
+        <div class="col-lg-4 col-sm-3 mb-3">
           <a href="https://gallant-bohr-faa6a7.netlify.app/scenery/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
             <i class=" icon text-primary d-block mb-4"></i>
             <h3 class="mb-3 mt-0">景色・背景</h3>
@@ -236,10 +309,26 @@
           </a>
         </div>
         
-        <div class="col-lg-4 col-sm-6 mb-4">
+        <div class="col-lg-4 col-sm-3 mb-3">
           <a href="https://gallant-bohr-faa6a7.netlify.app/life/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
             <i class=" icon text-primary d-block mb-4"></i>
             <h3 class="mb-3 mt-0">生物</h3>
+            <p class="mb-0"></p>
+          </a>
+        </div>
+        
+        <div class="col-lg-4 col-sm-3 mb-3">
+          <a href="https://gallant-bohr-faa6a7.netlify.app/tools/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+            <i class=" icon text-primary d-block mb-4"></i>
+            <h3 class="mb-3 mt-0">ツール・道具</h3>
+            <p class="mb-0"></p>
+          </a>
+        </div>
+        
+        <div class="col-lg-4 col-sm-3 mb-3">
+          <a href="https://gallant-bohr-faa6a7.netlify.app/lecture/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+            <i class=" icon text-primary d-block mb-4"></i>
+            <h3 class="mb-3 mt-0">資料・動画</h3>
             <p class="mb-0"></p>
           </a>
         </div>
