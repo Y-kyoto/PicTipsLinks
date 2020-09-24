@@ -1,7 +1,7 @@
 ---
-title: "ツール・道具"
+title: "質感"
 date: 2020-09-250
 description: ""
 type : "docs"
-weight: 20
+weight: 8
 ---

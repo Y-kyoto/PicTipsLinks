@@ -14,6 +14,10 @@ sections: ["目の描き方", "レイヤー構成", "使用ブラシ"]
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E7%B7%9A%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%91%E8%A8%BA%E6%96%AD?src=hash&amp;ref_src=twsrc%5Etfw">#線の書き方サイコパ診断</a><br><br>目のハイライトの位置や線の描き方は色々ありますが、みなさんはどんな目がサイコパ好きですか？🤔 <a href="https://t.co/szeS93JDkg">pic.twitter.com/szeS93JDkg</a></p>&mdash; ナイセン®︎【公式】📺9/24(木)TOKYOMX (@itallinc) <a href="https://twitter.com/itallinc/status/1308355812717338624?ref_src=twsrc%5Etfw">September 22, 2020</a></blockquote>
 {{% /twitter %}}
 
+{{% twitter %}}
+<!-- https://twitter.com/hanari0716/status/1307474965801754624 -->
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【目の描き方】が上達したいときの<br><br>「ダメかも❌」と「良いかも⭕️」 <a href="https://t.co/aTwngzbxFB">pic.twitter.com/aTwngzbxFB</a></p>&mdash; 吉村拓也【イラスト講座】 (@hanari0716) <a href="https://twitter.com/hanari0716/status/1307474965801754624?ref_src=twsrc%5Etfw">September 20, 2020</a></blockquote>
+{{% /twitter %}}
 
 {{% section-title 1 "レイヤー構成" %}}
 
