@@ -13,8 +13,8 @@ youtubeから発行されるHTMLを使用する。
 
 ## pixiv
 ```
-<a href="https://embed.pixiv.net/decorate.php?illust_id={イラスト固有ID}&amp;mode=sns-automator" title="{イラストタイトル}">
-<img alt="{イラストタイトル}" class="http-image" src="https://embed.pixiv.net/decorate.php?illust_id={イラスト固有ID}&amp;mode=sns-automator"></a>
+<a href="https://www.pixiv.net/artworks/{イラスト固有ID}" title="{イラストタイトル}">
+<img class="pixiv-embed-img" alt="{イラストタイトル}" class="http-image" src="https://embed.pixiv.net/decorate.php?illust_id={イラスト固有ID}&amp;mode=sns-automator"></a>
 ```
 と指定するることで埋め込むことができる。ただし公式でのブログパーツの提供は終了している。１ページ目が表紙でない場合は埋め込みではなくテキストでのリンクを優先する。
 
