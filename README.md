@@ -8,8 +8,13 @@ https://gallant-bohr-faa6a7.netlify.app/
 2. 埋め込み用のHTMLの `<blockquote>〜</blockquote>` を`.md`　ファイルに追記する。
 
 ## youtube
-youtubeから発行されるHTMLを使用する。
-使用した動画は[この再生リスト](https://www.youtube.com/playlist?list=PLfaxCAFIhb8BzUAjq95298WlSUgBO0_ck)に追加する。
+youtubeから発行される埋め込み用HTMLを使用する。
+
+```
+{{% youtube 0y3vBvXsMVE %}}
+```
+
+として動画を埋め込む。使用した動画は[この再生リスト](https://www.youtube.com/playlist?list=PLfaxCAFIhb8BzUAjq95298WlSUgBO0_ck)に追加する。
 
 ## pixiv
 ```
