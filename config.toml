@@ -32,7 +32,7 @@ white_color = "#ffffff"
 light_color = "#Copied!"
 
 # font family
-font_family = "lato" # Choose font family from : https://fonts.google.com/
+font_family = "M PLUS 1p" # Choose font family from : https://fonts.google.com/
 
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
@@ -58,7 +58,7 @@ copyright = ""
 [Languages.ja.params.banner]
 title = ""
 subtitle = ""
-placeholder = "テキストを入力してください。"
+placeholder = "検索ワードを入力してください。"
 
 # call to action
 [Languages.ja.params.cta]

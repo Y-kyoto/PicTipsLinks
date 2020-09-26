@@ -137,7 +137,7 @@ ul {
   list-style-type: none;
   margin: 0px;
   padding-left: 0;
-  font-size: 15px;
+  font-size: 14px;
 }
 
 ol {
@@ -570,7 +570,7 @@ textarea.form-control {
   content: '';
   height: 8px;
   width: 8px;
-  border-radius: 50%;
+  border-radius: 30%;
   background: var(--primary-color);
   opacity: .3;
   left: 0;
@@ -792,7 +792,7 @@ code {
 .back-btn::before {
   position: absolute;
   font-family: 'themify';
-  content: "\e6bc";
+  content: "";
   font-size: 25px;
   height: 30px;
   width: 40px;
