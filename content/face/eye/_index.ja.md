@@ -5,7 +5,7 @@ lastmod: 2020-09-20
 weight: 2
 draft: false
 keywords: ["目"]
-sections: ["目の描き方", "レイヤー構成", "使用ブラシ"]
+sections: ["目の描き方", "レイヤー構成"]
 ---
 
 {{% section-title 0 "目の描き方" %}}
@@ -19,6 +19,17 @@ sections: ["目の描き方", "レイヤー構成", "使用ブラシ"]
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【目の描き方】が上達したいときの<br><br>「ダメかも❌」と「良いかも⭕️」 <a href="https://t.co/aTwngzbxFB">pic.twitter.com/aTwngzbxFB</a></p>&mdash; 吉村拓也【イラスト講座】 (@hanari0716) <a href="https://twitter.com/hanari0716/status/1307474965801754624?ref_src=twsrc%5Etfw">September 20, 2020</a></blockquote>
 {{% /twitter %}}
 
-{{% section-title 1 "レイヤー構成" %}}
+{{% twitter %}}
+<!-- https://twitter.com/yokoney/status/809730812891504640?s=20 -->
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">前にディズニーのキャラクターデザイナーさんが説明していたマスクを使った目と眉の描き方が面白いな〜と思って自分向けにメモしたやつ。バランスがとれやすいのと表情に悩んだ時に役立ってます🙏🏻 <a href="https://t.co/9bD97lPnb6">pic.twitter.com/9bD97lPnb6</a></p>&mdash; よこ (@yokoney) <a href="https://twitter.com/yokoney/status/809730812891504640?ref_src=twsrc%5Etfw">December 16, 2016</a></blockquote>
+{{% /twitter %}}
 
-{{% section-title ２ "使用ブラシ" %}}
+{{% twitter %}}
+<!-- https://twitter.com/90_cis/status/1310164716858220544 -->
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">需要なさげな目の描き方メイキングです👀💭🖤<br><br>僕なりの描き方なので異論は認めます💬(塗りメイキングもそのうちだします)<br>誰かの参考になれば嬉しいです……<br> <a href="https://twitter.com/hashtag/%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0?src=hash&amp;ref_src=twsrc%5Etfw">#メイキング</a> <a href="https://t.co/0170FoM0j0">pic.twitter.com/0170FoM0j0</a></p>&mdash; Cis (@90_cis) <a href="https://twitter.com/90_cis/status/1310164716858220544?ref_src=twsrc%5Etfw">September 27, 2020</a></blockquote>
+{{% /twitter %}}
+
+{{% section-title 1 "レイヤー構成" %}}
+{{% ahrefs %}}
+  {{% ahref "イラストを華やかにする目(瞳)と髪の塗り方【CLIP STUDIO PAINT PRO　公式ガイドブックより】" "https://www.clipstudio.net/oekaki/archives/153050" %}}
+{{% /ahrefs %}}
