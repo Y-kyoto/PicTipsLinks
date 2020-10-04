@@ -25,7 +25,6 @@ div.linklist a {
   padding-left: 42px;
 }
 
-
 div.linklist a:before {
   position: absolute;
   font-family: "Font Awesome 5 Free";
@@ -45,6 +44,24 @@ div.linklist a:before {
   transform: translateY(-50%);
 }
 
+
+div.linklist a.linktype-pint:before {
+  background: red;
+  font-family: "Font Awesome 5 Brands";
+  content: "\f231";
+}
+
+div.linklist a.linktype-pixiv:before {
+  background: #0099FF;
+  content: "P";
+}
+
+div.linklist a.linktype-clip:before {
+  background: gray;
+  font-family: "Font Awesome 5 Free";
+  content: "\f0c6";
+}
+
 div.linklist a:after {
   content: '';
   display: block;
@@ -58,4 +75,15 @@ div.linklist a:after {
   top: 50%;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
+}
+
+div.linklist a.linktype-pint:after {
+  border-left: 12px solid red;
+}
+div.linklist a.linktype-pixiv:after {
+  border-left: 12px solid #0099FF;
+}
+
+div.linklist a.linktype-clip:after {
+  border-left: 12px solid gray;
 }
