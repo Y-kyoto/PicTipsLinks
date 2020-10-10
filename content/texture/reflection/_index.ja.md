@@ -5,10 +5,17 @@ lastmod: 2020-09-20
 weight: 1
 draft: false
 keywords: ["光", "トーンカーブ"]
-sections: ["金属の塗り", "ガラス・氷"]
+sections: ["金属の反射", "ガラス・氷"]
 ---
 
-{{% section-title 0 "金属の塗り" %}}
+{{% section-title 0 "金属の反射" %}}
+
+
+{{% ahrefs %}}
+    {{% ahref "【質感】イラスト・ゲーム向け金属の塗り方【基本から応用まで】" "https://www.clipstudio.net/oekaki/archives/152343" %}}
+    {{% ahref "金属材料をペイントする方法" "https://tips.clip-studio.com/ja-jp/articles/1986" "clip" %}}
+{{% /ahrefs %}}
+
 {{% twitter %}}
 <!-- https://twitter.com/emokakimasu/status/1306530788163289089?s=20 -->
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">金属の塗りに焼きこみを入れる方法と<br>トーンカーブの解説っぽいなにか <a href="https://t.co/S04fqsBYP5">pic.twitter.com/S04fqsBYP5</a></p>&mdash; ニャタBE (@emokakimasu) <a href="https://twitter.com/emokakimasu/status/1306530788163289089?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
