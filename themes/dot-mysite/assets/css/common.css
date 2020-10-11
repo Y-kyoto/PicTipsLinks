@@ -62,6 +62,12 @@ div.linklist a.linktype-clip:before {
   content: "\f0c6";
 }
 
+div.linklist a.linktype-amazon:before {
+  background: #000;
+  font-family: "Font Awesome 5 Brands";
+  content: "\f270";
+}
+
 div.linklist a:after {
   content: '';
   display: block;
@@ -86,4 +92,8 @@ div.linklist a.linktype-pixiv:after {
 
 div.linklist a.linktype-clip:after {
   border-left: 12px solid gray;
+}
+
+div.linklist a.linktype-amazon:after {
+  border-left: 12px solid #000;
 }
