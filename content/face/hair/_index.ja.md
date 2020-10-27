@@ -13,6 +13,7 @@ sections: ["髪の描き方", "エンジェルリング・天使の輪"]
 
 {{% ahrefs %}}
   {{% ahref "初心者が陥りがちな誤った髪の描き方と解決法" "https://ichi-up.net/2016/071" %}}
+  {{% ahref "基本的な髪の描き方メイキング講座" "https://ichi-up.net/2020/48" %}}
   {{% ahref "How to Draw Anime and Manga Hair – Female" "https://www.animeoutline.com/how-to-draw-anime-and-manga-hair-female/" %}}
 {{% /ahrefs %}}
 
