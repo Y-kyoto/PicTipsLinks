@@ -24,6 +24,8 @@ sections: ["基本", "斜め・角度", "頬・ほっぺ"]
 
 {{% section-title 2 "頬・ほっぺ" %}}
 
+{{% youtube VZBO_mzgaQg %}}
+
 {{% ahrefs %}}
   {{% ahref "ほほ赤らめ線時短ブラシ" "https://assets.clip-studio.com/ja-jp/detail?id=1689384" "clip" %}}
   {{% ahref "表情が華やかに見える色使い講座" "https://www.clipstudio.net/oekaki/archives/151455" %}}
