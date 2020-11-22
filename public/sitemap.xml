@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gallant-bohr-faa6a7.netlify.app/clothes/wrinkles/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gallant-bohr-faa6a7.netlify.app/life/others/</loc>
     <lastmod>2020-09-20T00:00:00+00:00</lastmod>
   </url>
@@ -18,12 +23,27 @@
   </url>
   
   <url>
+    <loc>https://gallant-bohr-faa6a7.netlify.app/character/gesture/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gallant-bohr-faa6a7.netlify.app/texture/reflection/</loc>
     <lastmod>2020-09-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gallant-bohr-faa6a7.netlify.app/-technique/paint/</loc>
+    <loc>https://gallant-bohr-faa6a7.netlify.app/life/mammal/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-bohr-faa6a7.netlify.app/technique/paint/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-bohr-faa6a7.netlify.app/clothes/student/</loc>
     <lastmod>2020-09-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,7 +58,17 @@
   </url>
   
   <url>
+    <loc>https://gallant-bohr-faa6a7.netlify.app/clothes/clothes/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gallant-bohr-faa6a7.netlify.app/tools/colors/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-bohr-faa6a7.netlify.app/clothes/decoration/</loc>
     <lastmod>2020-09-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,12 +88,22 @@
   </url>
   
   <url>
+    <loc>https://gallant-bohr-faa6a7.netlify.app/face/others/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gallant-bohr-faa6a7.netlify.app/body/</loc>
     <lastmod>2020-09-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://gallant-bohr-faa6a7.netlify.app/body/hand/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gallant-bohr-faa6a7.netlify.app/clothes/</loc>
     <lastmod>2020-09-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,7 +133,7 @@
   </url>
   
   <url>
-    <loc>https://gallant-bohr-faa6a7.netlify.app/-technique/</loc>
+    <loc>https://gallant-bohr-faa6a7.netlify.app/technique/</loc>
     <lastmod>2020-09-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -124,6 +164,10 @@
   
   <url>
     <loc>https://gallant-bohr-faa6a7.netlify.app/lecture/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gallant-bohr-faa6a7.netlify.app/paper/</loc>
   </url>
   
   <url>
