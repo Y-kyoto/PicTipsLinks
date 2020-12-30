@@ -34,6 +34,10 @@ sections: ["目の描き方", "レイヤー構成"]
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">需要なさげな目の描き方メイキングです👀💭🖤<br><br>僕なりの描き方なので異論は認めます💬(塗りメイキングもそのうちだします)<br>誰かの参考になれば嬉しいです……<br> <a href="https://twitter.com/hashtag/%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0?src=hash&amp;ref_src=twsrc%5Etfw">#メイキング</a> <a href="https://t.co/0170FoM0j0">pic.twitter.com/0170FoM0j0</a></p>&mdash; Cis (@90_cis) <a href="https://twitter.com/90_cis/status/1310164716858220544?ref_src=twsrc%5Etfw">September 27, 2020</a></blockquote>
 {{% /twitter %}}
 
+{{% twitter %}}
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">○目の描き方まとめ！！ <a href="https://t.co/K8R84h07GJ">pic.twitter.com/K8R84h07GJ</a></p>&mdash; アニメ私塾 (@animesijyuku) <a href="https://twitter.com/animesijyuku/status/1335146899389771776?ref_src=twsrc%5Etfw">December 5, 2020</a></blockquote>
+{{% /twitter %}}
+
 {{% section-title 1 "レイヤー構成" %}}
 {{% ahrefs %}}
   {{% ahref "イラストを華やかにする目(瞳)と髪の塗り方【CLIP STUDIO PAINT PRO　公式ガイドブックより】" "https://www.clipstudio.net/oekaki/archives/153050" %}}
