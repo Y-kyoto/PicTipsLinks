@@ -1,7 +1,7 @@
 ---
 title: "資料・動画"
 date: 2020-09-250
-description: ""
+description: "絵に関する動画や作業動画のリンクのまとめ。"
 type : "docs"
 weight: 21
 ---
