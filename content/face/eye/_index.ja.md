@@ -38,6 +38,14 @@ sections: ["目の描き方", "レイヤー構成"]
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">○目の描き方まとめ！！ <a href="https://t.co/K8R84h07GJ">pic.twitter.com/K8R84h07GJ</a></p>&mdash; アニメ私塾 (@animesijyuku) <a href="https://twitter.com/animesijyuku/status/1335146899389771776?ref_src=twsrc%5Etfw">December 5, 2020</a></blockquote>
 {{% /twitter %}}
 
+{{% twitter %}}
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">私なりの男の子の描き方です<br>参考になれば！ <a href="https://t.co/LNgzKNnk4s">pic.twitter.com/LNgzKNnk4s</a></p>&mdash; 朔晦@ネップリ (@tatigorira) <a href="https://twitter.com/tatigorira/status/1345596053051985925?ref_src=twsrc%5Etfw">January 3, 2021</a></blockquote>
+{{% /twitter %}}
+
+{{% twitter %}}
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【目の描き方備忘録】<br>主に自分向け<br>お目目 <a href="https://t.co/8i9EaNz4iX">pic.twitter.com/8i9EaNz4iX</a></p>&mdash; 🥺エモイラ🥺韓ｲ言バ美肉楽しい (@emoillu) <a href="https://twitter.com/emoillu/status/1336598306978373644?ref_src=twsrc%5Etfw">December 9, 2020</a></blockquote>
+{{% /twitter %}}
+
 {{% section-title 1 "レイヤー構成" %}}
 {{% ahrefs %}}
   {{% ahref "イラストを華やかにする目(瞳)と髪の塗り方【CLIP STUDIO PAINT PRO　公式ガイドブックより】" "https://www.clipstudio.net/oekaki/archives/153050" %}}
