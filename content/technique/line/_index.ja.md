@@ -19,3 +19,4 @@ sections: ["線画", "強弱", "参考"]
 {{% twitter %}}
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">前にこの描き方でウルガモス描きたいねって言ったので年内に描いた <a href="https://t.co/KpFySR9x6h">pic.twitter.com/KpFySR9x6h</a></p>&mdash; Ack (@Ackron302) <a href="https://twitter.com/Ackron302/status/1343937062123130883?ref_src=twsrc%5Etfw">December 29, 2020</a></blockquote> 
 {{% /twitter %}}
+
