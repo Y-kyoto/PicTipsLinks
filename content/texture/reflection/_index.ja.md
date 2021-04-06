@@ -5,7 +5,7 @@ lastmod: 2020-09-20
 weight: 1
 draft: false
 keywords: ["光", "トーンカーブ"]
-sections: ["金属の反射", "ガラス・氷", "ホログラム", "肌・濡れた肌"]
+sections: ["金属の反射", "ガラス・氷", "ホログラム", "肌・濡れた肌", "水・水面"]
 ---
 
 {{% section-title 0 "金属の反射" %}}
@@ -31,4 +31,9 @@ sections: ["金属の反射", "ガラス・氷", "ホログラム", "肌・濡�
 {{% section-title 3 "肌・濡れた肌" %}}
 {{% twitter %}}
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">濡れ肌の描き方 <a href="https://t.co/mic9ZH8FyC">pic.twitter.com/mic9ZH8FyC</a></p>&mdash; mignon(ミニョン)@新刊発売中 (@mignon) <a href="https://twitter.com/mignon/status/1355433243860901889?ref_src=twsrc%5Etfw">January 30, 2021</a></blockquote>
+{{% /twitter %}}
+
+{{% section-title 4 "水・水面" %}}
+{{% twitter %}}
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">水面の描き方 <a href="https://t.co/w96SHytVvW">pic.twitter.com/w96SHytVvW</a></p>&mdash; 𝒀𝒂𝒔☽ (@0_skyblue) <a href="https://twitter.com/0_skyblue/status/1379344195450662914?ref_src=twsrc%5Etfw">April 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {{% /twitter %}}

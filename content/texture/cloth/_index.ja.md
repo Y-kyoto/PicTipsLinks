@@ -1,5 +1,5 @@
 ---
-title: "布"
+title: "様々な種類の布・折れ目・シワ"
 date: 2020-09-20
 lastmod: 2020-09-20
 weight: 1
@@ -15,10 +15,17 @@ sections: ["タイツ", "シワ", "濡れ"]
 {{% /twitter %}}
 
 {{% section-title 1 "シワ" %}}
-服のしわやしわに対する影の入れ方について。スカルプト機能を持つソフトウェアならば３ D モデルで作成した布に対してしわを入れることもできる。
+服のしわやしわに対する影の入れ方について。
+
+{{% youtube "ffKL0W-SBLA" %}}
+
+はじめにしわのガイドに沿って塗り、体の立体感を持たせるために濃い影を影の少し内側に塗る、最後にしわの種類ごとに一つ一つ調整しながら塗っていく。
+布の種類や光の強さに従ってしわの形状としわにできる影の濃さが決まることを意識する。
+スカルプト機能を持つソフトウェアならば３ D モデルで作成した布に対してしわを入れることもできる。
 
 {{% ahrefs %}}
 {{% ahref "【創作資料】シャツとブラウスの描き方・影の入れ方" "https://www.clipstudio.net/oekaki/archives/152271" "clip" %}}
+{{% ahref "服のシワと影の描き方講座！シャツとTシャツでシワを学ぶ" "https://www.palmie.jp/lessons/77" %}}
 {{% ahref "Blenderのスカルプトで服のシワを描いてノーマルマップにベイクする" "https://3dgraph.me/modeling/draw-wrinkle-with-a-blender-sculpt-and-bake-normal-map/" %}}
 {{% /ahrefs %}}
 

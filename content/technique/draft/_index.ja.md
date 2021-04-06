@@ -19,3 +19,7 @@ sections: [""]
 {{% twitter %}}
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">らふ <a href="https://t.co/a5xCe8dw43">pic.twitter.com/a5xCe8dw43</a></p>&mdash; MAYMAY (@Maymay_pic) <a href="https://twitter.com/Maymay_pic/status/1149036136901120000?ref_src=twsrc%5Etfw">July 10, 2019</a></blockquote>
 {{% /twitter %}}
+
+{{% twitter %}}
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ちまちま描いてきます <a href="https://t.co/7a2NGL9aHz">pic.twitter.com/7a2NGL9aHz</a></p>&mdash; Lard (@buttertorst) <a href="https://twitter.com/buttertorst/status/1357395533464170497?ref_src=twsrc%5Etfw">February 4, 2021</a></blockquote>
+{{% /twitter %}}
