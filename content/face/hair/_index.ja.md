@@ -37,3 +37,8 @@ sections: ["髪の描き方", "エンジェルリング・天使の輪"]
 {{% ahrefs %}}
 {{% ahref "How to Draw Hair by Matt Fussell in Pencil Drawing" "https://thevirtualinstructor.com/how-to-draw-hair.html" %}}
 {{% /ahrefs %}}
+
+{{% twitter %}}
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">簡単な髪の描き方😄<br>日本語版のリクエストがあったので...! <a href="https://t.co/gn4fxRDwKb">pic.twitter.com/gn4fxRDwKb</a></p>&mdash; 수강생 모집중/Aile/엘/エル🧀@お仕事募集中 (@_aile824) <a href="https://twitter.com/_aile824/status/1380616222748766208?ref_src=twsrc%5Etfw">April 9, 2021</a></blockquote>
+{{% /twitter %}}
