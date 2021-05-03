@@ -1,5 +1,5 @@
 ---
-title: "反射"
+title: "光の反射"
 date: 2020-09-20
 lastmod: 2020-09-20
 weight: 1

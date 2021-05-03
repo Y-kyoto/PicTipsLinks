@@ -2,7 +2,7 @@
 title: "塗り方"
 date: 2020-09-20
 lastmod: 2020-09-20
-weight: 1
+weight: 100
 draft: false
 keywords: [""]
 sections: ["色トレス", "グリザイユ画法", "主線なし・輪郭なし"]

@@ -2,7 +2,7 @@
 title: "装飾"
 date: 2020-09-20
 lastmod: 2020-09-20
-weight: 1
+weight: 5
 draft: false
 keywords: ["頭"]
 sections: ["リボン", "メガネ", "帽子", "フリル", "襟・えり"]

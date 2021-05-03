@@ -2,7 +2,7 @@
 title: "髪"
 date: 2020-09-20
 lastmod: 2020-09-20
-weight: 2
+weight: 3
 draft: false
 keywords: ["頭"]
 sections: ["髪の描き方", "エンジェルリング・天使の輪"]
