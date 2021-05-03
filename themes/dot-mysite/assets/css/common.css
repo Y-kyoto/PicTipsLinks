@@ -20,6 +20,10 @@ div.youtube-area {
   text-align: center;
 }
 
+div.linklist{
+  padding: 2em 0 1em 1em;
+}
+
 div.linklist a {
   position: relative;
   padding-left: 42px;
